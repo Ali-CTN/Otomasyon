@@ -1,0 +1,125 @@
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe.config
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csprojResolveAssemblyReference.cache
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Menu.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.Cache
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Giris.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\bin\Debug\Giris.pdb
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.exe
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.pdb
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Satis.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Alis.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoUrun.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoMalzeme.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.MalzemeOlustur.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Personel.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Musteri.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Tedarikci.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Urun.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.KarZarar.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.PastaGrafik.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifremiUnuttum.resources
+C:\Users\Abdulvahap\Desktop\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifreYenileme.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe.config
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\bin\Debug\Giris.pdb
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csprojResolveAssemblyReference.cache
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Alis.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoMalzeme.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoUrun.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Giris.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.KarZarar.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.MalzemeOlustur.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Menu.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Musteri.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.PastaGrafik.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Personel.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Satis.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifremiUnuttum.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifreYenileme.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Tedarikci.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Urun.resources
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.Cache
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.CoreCompileInputs.cache
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.exe
+C:\Users\ali_c\Desktop\bdo\Budak Tekstil\Giris\Giris\obj\Debug\Giris.pdb
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe.config
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.pdb
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csprojAssemblyReference.cache
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Alis.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoMalzeme.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoUrun.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Giris.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.KarZarar.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.MalzemeOlustur.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Menu.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Musteri.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.PastaGrafik.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Personel.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Satis.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifremiUnuttum.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifreYenileme.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Tedarikci.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Urun.resources
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.cache
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.CoreCompileInputs.cache
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.exe
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.pdb
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\BudakDB.mdf
+C:\Users\ykoka\Desktop\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\BudakDB_log.ldf
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csprojResolveAssemblyReference.cache
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Alis.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoMalzeme.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoUrun.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Giris.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.KarZarar.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.MalzemeOlustur.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Menu.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Musteri.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.PastaGrafik.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Personel.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Satis.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifremiUnuttum.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifreYenileme.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Tedarikci.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Urun.resources
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.Cache
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.CoreCompileInputs.cache
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.exe
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.pdb
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\BudakDB.mdf
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\BudakDB_log.ldf
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe.config
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe
+C:\Users\ali_c\Desktop\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.pdb
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\BudakDB.mdf
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\BudakDB_log.ldf
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe.config
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.exe
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\bin\Debug\Giris.pdb
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csprojResolveAssemblyReference.cache
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Alis.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoMalzeme.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.DepoUrun.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Giris.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.KarZarar.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.MalzemeOlustur.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Menu.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Musteri.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.PastaGrafik.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Personel.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Properties.Resources.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Satis.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifremiUnuttum.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.SifreYenileme.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Tedarikci.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.Urun.resources
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.GenerateResource.Cache
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.csproj.CoreCompileInputs.cache
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.exe
+C:\Users\ali_c\Desktop\Okul dersler-projeler etc\Yeni klasör\stok\STOK_TAKİP_OTOMASYONU\Budak Tekstil\Giris\Giris\obj\Debug\Giris.pdb
